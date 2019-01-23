@@ -1,5 +1,4 @@
 <launch>
-  <node name="imu_data"  pkg="imu_publish"  type="imu_data" output="screen">
- </node>
- 
+  <node name="imu_data"  pkg="hipnuc_imu_ros"  type="imu_data" output="screen">
+  </node> 
 </launch>
