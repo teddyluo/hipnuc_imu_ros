@@ -1,8 +1,12 @@
-hipnuc_imu_ros: A ROS wrapper for HiPNUC HI216 IMU Device
+hipnuc_imu_ros
 ===================================
 
+Description
+----
+A ROS wrapper for HiPNUC HI216 IMU Device.
+
 The HiPNUC HI216 is a 6 DoF (Degree of Freedom) IMU device which consists of 2 sensors: gyro and acceleration sensor.
-More information about this sensor can be found in the official **HiPNUC** website:  [http://www.hipnuc.com](http://www.hipnuc.com/) 
+More information about this sensor can be found in the official `HiPNUC` website: [http://www.hipnuc.com](http://www.hipnuc.com/).
 
 Install Linux Driver for HiPNUC HI216
 -------------------------
